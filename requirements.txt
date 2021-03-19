@@ -7,7 +7,7 @@ echarts-countries-pypkg==0.1.4
 echarts-united-kingdom-pypkg==0.0.1
 future==0.16.0
 javascripthon==0.10
-Jinja2==2.10
+Jinja2==2.11.3
 jupyter-echarts-pypkg==0.1.2
 lml==0.0.2
 macropy3==1.1.0b2
